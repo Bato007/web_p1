@@ -25,7 +25,13 @@ Para mantener corriendo el server se utiliza de la siguiente manera:
 `npm run start:server`
 
 ## Technologies
-
+* React: https://reactjs.org/
+* Babel: https://babeljs.io/
+* Eslint: https://eslint.org/
+* Webpack: https://webpack.js.org/
+* Express: https://expressjs.com/
+* Nodemon: https://www.npmjs.com/package/nodemon
+* PostCSS: https://postcss.org/
 
 ## Credits 
 @Bato007
